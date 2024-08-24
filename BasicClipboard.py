@@ -1,7 +1,6 @@
 import sys
 from PyQt6.QtCore import Qt
-from PyQt6.QtWidgets import (QWidget, QLabel, QLineEdit, QPushButton,
-                             QPlainTextEdit, QGridLayout, QApplication)
+from PyQt6.QtWidgets import (QWidget, QPushButton, QPlainTextEdit, QGridLayout, QApplication)
 
 class ClipWindow(QWidget):
     def __init__(self):
