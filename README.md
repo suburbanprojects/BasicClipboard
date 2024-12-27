@@ -1,4 +1,4 @@
 # BasicClipboard
 Basic clipboard with PyQT6
 
-![first image](https://imgur.com/a/f3Yw4bw)
+![first image](https://i.imgur.com/oFl56r7.png)
