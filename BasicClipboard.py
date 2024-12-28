@@ -92,6 +92,7 @@ class Clipboard(QMainWindow):
         self.copied_task_label.setText(f'Copied Entry: {copied_entry}')
 
     def clear_all(self):
+        self.clip_insert_entry.clear()
         self.clip_list_entry.clear()
         self.copied_task_label.clear()
 
