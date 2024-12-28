@@ -93,6 +93,7 @@ class Clipboard(QMainWindow):
 
     def clear_all(self):
         self.clip_list_entry.clear()
+        self.copied_task_label.clear()
 
 if __name__=='__main__':
     app = QApplication(sys.argv)
